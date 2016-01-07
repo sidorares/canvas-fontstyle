@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "mocha": "^2.3.4",
-    "mocha.md": "^0.1.0",
+    "mocha.md": "^0.1.0"
   }
 }
