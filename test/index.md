@@ -52,7 +52,7 @@ var tests = [
   , { size: 20, unit: 'px', weight: 'lighter', family: 'Arial' }
 ];
 
-var parseFontStyle = require('canvas-fontstyle');
+var parseFontStyle = require('..');
 
 for (var t =0; t < tests.length; t += 2) {
   var fontStyle = tests[t];
